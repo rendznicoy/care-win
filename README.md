@@ -1,2 +1,2 @@
 # care-win
-Election Result Tally Board Application
+Result Tally Board Application
